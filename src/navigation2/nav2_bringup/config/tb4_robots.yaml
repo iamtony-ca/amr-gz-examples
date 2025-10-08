@@ -1,0 +1,10 @@
+robots:
+  - name: 'robot1'
+    x_pose: -8.0
+    y_pose: 0.5
+    yaw: 0.0
+
+  - name: 'robot2'
+    x_pose: -8.0
+    y_pose: -0.5
+    yaw: 0.0
